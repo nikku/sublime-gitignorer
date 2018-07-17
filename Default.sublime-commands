@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "Gitignorer: Update Settings",
+    "command": "gitignorer_update_settings"
+  }
+]
